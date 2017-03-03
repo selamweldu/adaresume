@@ -1,11 +1,11 @@
-<P align= "center"> **Selamawit Tesfay** <br> 2026 S main St #3 - Seattle, WA - 98144<br>	(515)770-8756 Selamweldu50@gmail.com<br> </P>
+<P align= "center"> _Selamawit Tesfay_ <br> 2026 S main St #3  Seattle, WA - 98144<br>	(515)770-8756 Selamweldu50@gmail.com<br> </P>
 
+
+<P align = "center"> Core copmpitencies </P>
 ----
-<P alighn = "center"> Core copmpitencies </P>
----
-<P align = "center"> Fast-Learner | Proactive | Flexible | Dedicated | Highly-Motivated|Initiative|Results Oriented|EthicsClient service|Analytical Thinking </P>
+<P align = "center"> Fast-Learner | Proactive | Flexible | Dedicated | Highly-Motivated | Initiative | Results Oriented | EthicsClient service | Analytical Thinking </P>
 
-<center> **Education**</center>
+ **Education**
 ----
 **Pre Engineering courses&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09/2011- 07/2012<br>**
 SMAP Institute of Training, Education, Reaserch and Consultancy<br>
