@@ -1,9 +1,9 @@
-<center>  **Selamawit Tesfay** <br> 2026 S main St #3 Seattle, WA 98144<br>	(515)770-8756 Selamweldu50@gmail.com<br></center>
+<center> **Selamawit Tesfay** <br> 2026 S main St #3 Seattle, WA 98144<br>	(515)770-8756 Selamweldu50@gmail.com<br> </center>
 
 ----
-<center>Core copmpitencies</center>
+<center> Core copmpitencies </center>
 ---
-<center> Fast-Learner | Proactive | Flexible | Dedicated | Highly-Motivated|Initiative|Results Oriented|EthicsClient service|Analytical Thinking</center>
+<center> Fast-Learner | Proactive | Flexible | Dedicated | Highly-Motivated|Initiative|Results Oriented|EthicsClient service|Analytical Thinking </center>
 
 <center> **Education**</center>
 ----
