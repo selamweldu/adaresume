@@ -1,4 +1,4 @@
-<center> **Selamawit Tesfay** <br> 2026 S main St #3 Seattle, WA 98144<br>	(515)770-8756 Selamweldu50@gmail.com<br> </center>
+<P align= "center"> **Selamawit Tesfay** <br> 2026 S main St #3 Seattle, WA 98144<br>	(515)770-8756 Selamweldu50@gmail.com<br> </P>
 
 ----
 <center> Core copmpitencies </center>
